@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-bower",
+  "version": "0.0.0",
+  "description": "for test oscar",
+  "moduleType": [
+    "yui"
+  ],
+  "keywords": [
+    "nodejs-bower"
+  ],
+  "authors": [
+    "oscar"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "d3": "~3.5.5"
+  }
+}
